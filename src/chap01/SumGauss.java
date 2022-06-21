@@ -11,5 +11,7 @@ public class SumGauss {
 		int sum = n * (n + 1) / 2;
 		
 		System.out.println("sum : " + sum);
+		
+		in.close();
 	}
 }
